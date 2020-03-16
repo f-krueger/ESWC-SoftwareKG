@@ -1,0 +1,6 @@
+[submodule "SoSciSoCi"]
+	path = SoSciSoCi
+	url = https://github.com/f-krueger/SoSciSoCi/
+[submodule "softwareKG"]
+	path = softwareKG
+	url = https://github.com/dave-s477/softwareKG
