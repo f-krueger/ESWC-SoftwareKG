@@ -4,3 +4,6 @@
 [submodule "softwareKG"]
 	path = softwareKG
 	url = https://github.com/dave-s477/softwareKG
+[submodule "SoSciSoCi-SSC"]
+	path = SoSciSoCi-SSC
+	url = https://github.com/dave-s477/SoSciSoCi-SSC
