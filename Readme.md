@@ -15,7 +15,8 @@ This repository contains:
 * Reference to the source code necessary to reproduce the results `softwareKG`
 * SoSciSoCi corpus used for training and evaluation of the NER model `SoSciSoCi`
 
-The LICENCE file applies to the file `software_kg.zip` only.
+The LICENCE file applies to the files in this repository only.
+The submodules `SoSciSoCi`, `SoSciSoCi-SSC`, and `softwareKG` might use different LICENCES.  
 
 
 The work is described and used in the following publication:
