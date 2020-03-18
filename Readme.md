@@ -14,9 +14,10 @@ This repository contains:
 * N-Triples file for the final SoftwareKG: `software_kg.zip`
 * Reference to the source code necessary to reproduce the results `softwareKG`
 * SoSciSoCi corpus used for training and evaluation of the NER model `SoSciSoCi`
+* SoSciSoCi-SSC silver standard corpus used for pre-training of the NER model `SoSciSoCi-SSC`
 
 The LICENCE file applies to the files in this repository only.
-The submodules `SoSciSoCi`, `SoSciSoCi-SSC`, and `softwareKG` might use different LICENCES.  
+The submodules `SoSciSoCi`, `SoSciSoCi-SSC`, and `softwareKG` might use different LICENCES.
 
 
 The work is described and used in the following publication:
