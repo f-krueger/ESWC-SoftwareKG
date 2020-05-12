@@ -1,5 +1,7 @@
 # ESWC SoftwareKG
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/investigating-software-usage-in-the-social/named-entity-recognition-on-soscisoci)](https://paperswithcode.com/sota/named-entity-recognition-on-soscisoci?p=investigating-software-usage-in-the-social)
+
 SoftwareKG is a knowledge graph that contains software mentions of 51,165 articles from PLoS that are tagged with the keyword "Social Science".
 The software mentions are automatically extracted by use of a automated pipeline. more than 133,000 software mention were identified.
 The software mentions were then linked by use of their potential abbreviations and the DBpedia.
